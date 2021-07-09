@@ -1,0 +1,7 @@
+C:\Users\William\Desktop\NTU\software engineering 1\SE1Assessment\DiabetesApplication\DiabetesApplication\bin\Debug\DiabetesApplication.exe.config
+C:\Users\William\Desktop\NTU\software engineering 1\SE1Assessment\DiabetesApplication\DiabetesApplication\bin\Debug\DiabetesApplication.exe
+C:\Users\William\Desktop\NTU\software engineering 1\SE1Assessment\DiabetesApplication\DiabetesApplication\bin\Debug\DiabetesApplication.pdb
+C:\Users\William\Desktop\NTU\software engineering 1\SE1Assessment\DiabetesApplication\DiabetesApplication\obj\Debug\DiabetesApplication.csprojAssemblyReference.cache
+C:\Users\William\Desktop\NTU\software engineering 1\SE1Assessment\DiabetesApplication\DiabetesApplication\obj\Debug\DiabetesApplication.csproj.CoreCompileInputs.cache
+C:\Users\William\Desktop\NTU\software engineering 1\SE1Assessment\DiabetesApplication\DiabetesApplication\obj\Debug\DiabetesApplication.exe
+C:\Users\William\Desktop\NTU\software engineering 1\SE1Assessment\DiabetesApplication\DiabetesApplication\obj\Debug\DiabetesApplication.pdb

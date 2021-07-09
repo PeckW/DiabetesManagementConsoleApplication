@@ -1,0 +1,9 @@
+Naser
+test
+
+
+Entered BG level: 10.5 mmol/L Date / Time: 20/01/2021 16:04:03
+Entered BG level: 16.7 mmol/L Date / Time: 20/01/2021 16:04:09
+
+Entered BG level: 16.7 mmol/L Date / Time: 20/01/2021 16:04:33
+Entered BG level: 16.7 mmol/L Date / Time: 20/01/2021 16:04:09
